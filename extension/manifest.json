@@ -4,7 +4,7 @@
     "version": "1.0",
     "description": "Summarize YouTube videos using AI.",
     "permissions": ["activeTab", "declarativeContent"],
-    "host_permissions": ["http://127.0.0.1:5500/*"],
+    "host_permissions": ["http://127.0.0.1:5000/*"],
     "action": {
       "default_title": "Summarise the video",
       "default_popup": "popup.html",
